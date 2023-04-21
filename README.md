@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Node,Express,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://Kavitadsharma.github.io](https://Kavitadsharma.github.io)
+- 👨‍💻 All of my projects are available at [https://Kavitadsharma.github.io/](https://Kavitadsharma.github.io/)
 
 - 💬 Ask me about **HTML,CSS, javascript,Express,MongoDB**
 
